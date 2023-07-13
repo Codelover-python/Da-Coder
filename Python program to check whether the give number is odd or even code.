@@ -1,0 +1,10 @@
+# A simple Python program to show wether the given number is positive or negative using the if-else statement.
+# The variable that I have used over here is m and an value can suffice in this project.
+m = 23
+
+# Using the if-else statement
+if  m >= 0:
+ print("This is a positive integer")
+
+else:
+ print("This is a negative integer")
